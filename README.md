@@ -134,18 +134,5 @@ hotel-review-analyzer/
 ## 🤝 Contributors
 
 - [@PranjalKaushik77](https://github.com/PranjalKaushik77)
-- [@AadyaSrivastava5](https://github.com/AadyaSrivastava5)
 
----
 
-## 📜 License
-
-This project is open-source and licensed under the [MIT License](LICENSE).
-
----
-
-## 🌐 Live Demo (Optional)
-
-> Deploy using Streamlit Community Cloud / Hugging Face Spaces / Render for public access.
-
----
